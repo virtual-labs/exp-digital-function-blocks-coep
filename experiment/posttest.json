@@ -2,38 +2,65 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which signal is used for any analog function block?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "1V-5V",
+        "b": "4-20mA",
+        "c": "Both a and b",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the major difference between input and output function block?",
+      "answers": {
+        "a": "Output block does not have input connection available",
+        "b": "Output block has feedback connection available",
+        "c": "Input block has feedback connection available",
+        "d": "None of these"
       },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The PID function is available in ---------- block category",
+      "answers": {
+        "a": "Function",
+        "b": "Math",
+        "c": "Logic",
+        "d": "Analog Control"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The scan time of DCS is fixed. This statement is",
+      "answers": {
+        "a": "False",
+        "b": "True",
+        "c": "Can't comment",
+        "d": "None of these"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Generally in DCS ------------- is used as a programming language.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Instruction listing",
+        "b": "Functional block diagram",
+        "c": "Ladder diagram",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
 }
+
