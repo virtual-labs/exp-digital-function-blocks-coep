@@ -7,13 +7,9 @@
         "a": "1V-5V",
         "b": "4-20mA",
         "c": "Both a and b",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
@@ -23,30 +19,22 @@
         "a": "Output block does not have input connection available",
         "b": "Output block has feedback connection available",
         "c": "Input block has feedback connection available",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
       "question": "The PID function is available in ---------- block category",
       "answers": {
-        "a": "Analog Control",
+        "a": "Function",
         "b": "Math",
         "c": "Logic",
+        "d": "Analog Control"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
@@ -55,13 +43,9 @@
         "a": "False",
         "b": "True",
         "c": "Can't comment",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
@@ -71,13 +55,9 @@
         "a": "Instruction listing",
         "b": "Functional block diagram",
         "c": "Ladder diagram",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
