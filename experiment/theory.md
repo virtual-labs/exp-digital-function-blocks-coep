@@ -89,24 +89,24 @@ Following functions blocks are generally available in the libraries.
 * Splitter
 
 Let us discuss about the commonly used Input/ Output library function blocks.
-### **Analog Input function Block -**
+### **Analog Input function Block**
 
 Analog Input (AI) Function Block accesses a single Analog measurement value and its status on the AI channel. In manual mode, when AI block is configured, input has to be in engineering units as well as output is indicated in engineering units on the screen. In automatic mode, output of the block will reflect process variable value. Input to the block could be 4-20mA or digitally communicated variable from HART based transmitter.
 
 <center><img src="images/img2.png" title="" /></center>
 
-### **Analog Output function Block -**
+### **Analog Output function Block**
 Analog output (AO) function block assigns any output value to a field devices like control valve through a specific AO channel. In manual mode, the output parameter value can be set manually. In automatic mode, OUT is set automatically based on set point and process variable value in engineering units. A feedback can also be set for the output parameter.
 
 <center><img src="images/img3.png" title="" /></center>
 
-### **Discrete (digital) Input (DI) Function Block -**
+### **Discrete (digital) Input (DI) Function Block**
 
 The Discrete Input (DI) Function blocks accesses a single digital input value with its status between two states of the field devices. The block gives processed physical input for other function blocks. In automatic mode, Process variable is copied to output which can be either 0 or 1. In manual mode, the digital input can be toggled manually and output follows the same.
 
 <center><img src="images/img4.png" title="" /></center>
 
-### **Discrete (digital) Output (DO) Function Block –**
+### **Discrete (digital) Output (DO) Function Block**
 
 Digital Output block takes value from the process and writes it to specific digital output channel. One can confirm physical output operation by configuring a hardware discrete input to it. In automatic mode, when the signal from process changes the output of the block which will be connected to AO channel which in turn connects to field outputs e.g a solenoid valve, changes.
 
