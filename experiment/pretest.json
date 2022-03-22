@@ -2,36 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is full form of FBD?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Free block diagram",
+        "b": "Flow block diagram",
+        "c": "Finite block diagram",
+        "d": "Functional block diagram"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "DCS was evolved from",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Electromechanical relay based systems",
+        "b": "Pneumatic/ Single loop controllers",
+        "c": "Programmable logic controllers",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the output of OR block if any one of the input is high or active or true?",
+      "answers": {
+        "a": "1",
+        "b": "0",
+        "c": "Can't say",
+        "d": "None of these"
       },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the output of AND block if any one of the input is high or active or true?",
+      "answers": {
+        "a": "1",
+        "b": "0",
+        "c": "Can't say",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Production level control is --- level in hierarchical distributed structure",
+      "answers": {
+        "a": "Second",
+        "b": "First",
+        "c": "Third",
+        "d": "Fourth"
+      },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
