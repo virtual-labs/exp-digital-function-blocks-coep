@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The PID function is available in ---------- block category",
+      "question": "The PID function is available in ______ block category",
       "answers": {
         "a": "Function",
         "b": "Math",
@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Generally in DCS ------------- is used as a programming language.",
+      "question": "Generally in DCS _______ is used as a programming language.",
       "answers": {
         "a": "Instruction listing",
         "b": "Functional block diagram",
