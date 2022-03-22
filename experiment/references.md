@@ -6,6 +6,5 @@
 
 ### **Useful links:**
 
-1. [https://www2.emersonprocess.com](https://www2.emersonprocess.com)
-2. [https://www.rockwellautomation.com/solutions/migration/programs.html](https://www.rockwellautomation.com/solutions/migration/programs.html)
-3. [https://hpsweb.honeywell.com/Cultures/enUS/Products/Systems/TDC3000/default.htm](https://hpsweb.honeywell.com/Cultures/enUS/Products/Systems/TDC3000/default.htm)
+1. [https://www.emerson.com/en-us/automation-solutions](https://www.emerson.com/en-us/automation-solutions)
+2. [https://hpsweb.honeywell.com/Cultures/enUS/Products/Systems/TDC3000/default.htm](https://hpsweb.honeywell.com/Cultures/enUS/Products/Systems/TDC3000/default.htm)
